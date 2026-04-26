@@ -1,5 +1,7 @@
-# safetysimple-privacy
 # SafetySimple Privacy Policy
+
+This page contains the Privacy Policy in English and Italian.
+
 ---
 
 # Index / Indice
